@@ -1,0 +1,7 @@
+.env
+.encryptedKey.json
+node_modules
+dist
+
+# macOS system files
+.DS_Store
