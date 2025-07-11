@@ -1,0 +1,3 @@
+[submodule "rebase-token/lib/forge-std"]
+	path = rebase-token/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
