@@ -1,5 +1,6 @@
 # Compiler files
 cache/
+.cache/
 out/
 
 # Broadcast logs (deployment artifacts - don't commit)

@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+
+# Foundry build artifacts
+cache/
+.cache/
+broadcast/
