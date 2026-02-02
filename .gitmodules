@@ -106,3 +106,6 @@
 [submodule "foundry-account-abstraction/lib/foundry-era-contracts"]
 	path = foundry-account-abstraction/lib/foundry-era-contracts
 	url = https://github.com/Cyfrin/foundry-era-contracts
+[submodule "foundry-fundamentals/foundry-simple-storage/lib/forge-std"]
+	path = foundry-fundamentals/foundry-simple-storage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
