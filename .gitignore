@@ -37,6 +37,9 @@ logs/
 .env.test.local
 .env.production.local
 
+# Excluded from main repo
+denver-security/
+
 # Other
 *.tmp
-*.temp 
+*.temp

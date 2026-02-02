@@ -1,3 +1,108 @@
 [submodule "rebase-token/lib/forge-std"]
 	path = rebase-token/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "rebase-token/lib/openzeppelin-contracts"]
+	path = rebase-token/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-dao/lib/forge-std"]
+	path = foundry-dao/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-dao/lib/openzeppelin-contracts"]
+	path = foundry-dao/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-upgrades-contracts/lib/forge-std"]
+	path = foundry-upgrades-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-upgrades-contracts/lib/openzeppelin-contracts-upgradeable"]
+	path = foundry-upgrades-contracts/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "foundry-upgrades-contracts/lib/openzeppelin-contracts"]
+	path = foundry-upgrades-contracts/lib/openzeppelin-contracts
+	url = https://github.com/Openzeppelin/openzeppelin-contracts
+[submodule "foundry-upgrades-contracts/lib/foundry-devops"]
+	path = foundry-upgrades-contracts/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-merkle-airdrop/lib/forge-std"]
+	path = foundry-merkle-airdrop/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-merkle-airdrop/lib/openzeppelin-contracts"]
+	path = foundry-merkle-airdrop/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-merkle-airdrop/lib/murky"]
+	path = foundry-merkle-airdrop/lib/murky
+	url = https://github.com/dmfxyz/murky
+[submodule "foundry-merkle-airdrop/lib/foundry-devops"]
+	path = foundry-merkle-airdrop/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "rebase-token/lib/chainlink-ccip"]
+	path = rebase-token/lib/chainlink-ccip
+	url = https://github.com/smartcontractkit/chainlink-ccip
+[submodule "rebase-token/lib/ccip"]
+	path = rebase-token/lib/ccip
+	url = https://github.com/smartcontractkit/ccip
+[submodule "rebase-token/lib/chainlink-local"]
+	path = rebase-token/lib/chainlink-local
+	url = https://github.com/smartcontractkit/chainlink-local
+[submodule "factory-pattern-with-clones/lib/forge-std"]
+	path = factory-pattern-with-clones/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-nft/lib/forge-std"]
+	path = foundry-nft/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-nft/lib/openzeppelin-contracts"]
+	path = foundry-nft/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-nft/lib/foundry-devops"]
+	path = foundry-nft/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-fund-me/lib/forge-std"]
+	path = foundry-fund-me/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-fund-me/lib/chainlink-brownie-contracts"]
+	path = foundry-fund-me/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundry-fund-me/lib/foundry-devops"]
+	path = foundry-fund-me/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-defi-stablecoin/lib/forge-std"]
+	path = foundry-defi-stablecoin/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-defi-stablecoin/lib/openzeppelin-contracts"]
+	path = foundry-defi-stablecoin/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-defi-stablecoin/lib/chainlink-brownie-contracts"]
+	path = foundry-defi-stablecoin/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundry-erc20/lib/forge-std"]
+	path = foundry-erc20/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-erc20/lib/openzeppelin-contracts"]
+	path = foundry-erc20/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-smart-contract-lottery/lib/forge-std"]
+	path = foundry-smart-contract-lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-smart-contract-lottery/lib/chainlink-brownie-contracts"]
+	path = foundry-smart-contract-lottery/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "foundry-smart-contract-lottery/lib/solmate"]
+	path = foundry-smart-contract-lottery/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "foundry-smart-contract-lottery/lib/foundry-devops"]
+	path = foundry-smart-contract-lottery/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-account-abstraction/lib/forge-std"]
+	path = foundry-account-abstraction/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "foundry-account-abstraction/lib/foundry-devops"]
+	path = foundry-account-abstraction/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "foundry-account-abstraction/lib/account-abstraction"]
+	path = foundry-account-abstraction/lib/account-abstraction
+	url = https://github.com/eth-infinitism/account-abstraction
+[submodule "foundry-account-abstraction/lib/openzeppelin-contracts"]
+	path = foundry-account-abstraction/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry-account-abstraction/lib/foundry-era-contracts"]
+	path = foundry-account-abstraction/lib/foundry-era-contracts
+	url = https://github.com/Cyfrin/foundry-era-contracts
